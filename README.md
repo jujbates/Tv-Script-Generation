@@ -1,3 +1,8 @@
+# TV Script Generation Project
+
+The TV script generation project by Udacity inc. takes in tv scripts and outputs a new tv script. This project repo is for educational purpose and should be used as a tool, not for copying. If viewing or using this repo, please follow the Udacity Honor Code and Community Code of Conduct: https://www.udacity.com/legal/community-guidelines
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jujbates/Tv-Script-Generation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
